@@ -105,11 +105,10 @@ Para propostas, projetos, parcerias e atendimento institucional, a comunicação
 
 > Atualize os dados abaixo antes da publicação final do projeto.
 
-- E-mail: [seu-email@guara.it]
-- Telefone: [seu telefone]
-- WhatsApp: [seu WhatsApp]
-- LinkedIn: [seu perfil]
-- Site institucional: [url-do-site]
+- E-mail: [falecom.guarait@gmail.com]
+- WhatsApp: 43 999674581
+- LinkedIn: https://www.linkedin.com/company/guara-it/?viewAsMember=true
+- Site institucional: https://guara-it.onrender.com/
 
 ### Chamada para ação
 
